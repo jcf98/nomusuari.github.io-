@@ -1,0 +1,12 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1440.900" x="363" y="34" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="540" y="159" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="752" y="244" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="471" y="278" />
+    <location key="CommitChangelistDialog2.0.0.1440.900" x="338" y="40" />
+    <location key="Vcs.Push.Dialog.0.0.1440.900" x="481" y="176" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="469" y="254" />
+    <size key="new project wizard.0.0.1440.900" width="1077" height="807" />
+  </component>
+</application>
